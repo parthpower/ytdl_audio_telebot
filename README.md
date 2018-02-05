@@ -1,6 +1,6 @@
-[![npm](https://img.shields.io/npm/l/express.svg)]()
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/parthpower/ytdl_audio_telebot/)
-[![Libraries.io for GitHub](https://img.shields.io/librariesio/github/phoenixframework/phoenix.svg)](https://github.com/parthpower/ytdl_audio_telebot/)
+[![npm](https://img.shields.io/npm/l/ytdl_audio_telebot.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/parthpower/ytdl_audio_telebot/total.svg)](https://github.com/parthpower/ytdl_audio_telebot)
+[![Libraries.io for GitHub](https://img.shields.io/librariesio/github/parthpower/ytdl_audio_telebot.svg)](https://github.com/parthpower/ytdl_audio_telebot/)
 
 # ytdl_audio_telebot
 
