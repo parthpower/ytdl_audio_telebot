@@ -1,0 +1,30 @@
+{
+  "name": "ytdl_audio_telebot",
+  "version": "0.0.2",
+  "description": "Telegram Bot that Downloads YouTube Audio File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthpower/ytdl_audio_telebot.git"
+  },
+  "keywords": [
+    "youtube",
+    "ytdl",
+    "telegram",
+    "bot"
+  ],
+  "author": "Parth Parikh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parthpower/ytdl_audio_telebot/issues"
+  },
+  "homepage": "https://github.com/parthpower/ytdl_audio_telebot#readme",
+  "dependencies": {
+    "telebot": "^1.2.3",
+    "ytdl-core": "^0.20.0"
+  }
+}
