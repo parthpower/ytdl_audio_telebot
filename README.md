@@ -14,7 +14,7 @@ Download this repo and `npm install`
 
 Get your telegram bot key from ['@botfather'](https://telegram.me/botfather)
 
-`env TELEGRAM_BOT_KEY=<YOUR_TELEGRAM_BOT_KEY> npm start`
+`env TELEGRAM_BOT_KEY=<YOUR_TELEGRAM_BOT_KEY> npm run start_bot`
 
 # Deploy on Heroku
 
