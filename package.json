@@ -25,6 +25,6 @@
   "homepage": "https://github.com/parthpower/ytdl_audio_telebot#readme",
   "dependencies": {
     "telebot": "^1.2.3",
-    "ytdl-core": "^0.20.0"
+    "ytdl-core": "^0.20.1"
   }
 }
