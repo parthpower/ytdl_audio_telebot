@@ -13,7 +13,7 @@ bot.on('text',(msg)=>{
 		ytdl(url, {quality: "highestaudio", filter: "audioonly"})
 			.pipe(fs.createWriteStream(aac_file).on('finish',()=>{
 				msg.reply.text("Uploading File...");
-				msg.reply.file(aac_file).then(()=>{
+				msg.reply.audio(aac_file).then(()=>{
 					fs.unlink(aac_file);
 				});
 			}));
